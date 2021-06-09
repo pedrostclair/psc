@@ -1,0 +1,15 @@
+{
+  "name": "psc-portfolio",
+  "version": "1.0.0",
+  "description": "Hey, I'm Pedro St Clair.",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
